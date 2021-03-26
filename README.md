@@ -22,6 +22,8 @@ This hook leverages tasklib, so you need to install that too:
 pip --user install tasklib
 ```
 
+(Don't forget to make the files executable as well!)
+
 Configuration
 -------------
 
